@@ -1,11 +1,9 @@
 #include "asciiArt.h" 
 #include "funValue.h"
 #include <chrono>
-#include <cmath>
 #include <cstdlib>
 #include <iomanip>
 #include <iostream>
-#include <limits>
 #include <random>
 #include <string>
 #include <thread>
